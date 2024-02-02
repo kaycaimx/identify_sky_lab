@@ -8,7 +8,6 @@ from PIL import Image
 from io import BytesIO
 import cv2
 import numpy as np
-import matplotlib.pyplot as plt
 
 STARRY_NIGHT_URL = "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/800px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg"
 
