@@ -43,7 +43,7 @@ The demo interface allows users to interactively upload images and visualize the
 
 ## Assumptions and Limitations
 
-This application relies on colour thresholding and assumes the sky is clear and either in bluish or grayish colour. It has two primary limitations that it may fail to identify:
+This application relies on colour thresholding and assumes that the sky is always on the top of an image, and it is clear and either in bluish or grayish colour. It has two primary limitations that it may fail to identify:
 
 1. pixels of non-sky with similar colour: for example, distant mountains which are shown in bluish colour, especially snow mountains, and reflection of the sky in the water; and
 
