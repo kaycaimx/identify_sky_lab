@@ -47,4 +47,4 @@ This application relies on colour thresholding and assumes the sky is clear and 
 
 1. pixels of non-sky with similar colour: for example, distant mountains which are shown in bluish colour, especially snow mountains, and reflection of the sky in the water; and
 
-2. pixels of sky with different colours: for example, clouds (as shown in the diagram above) and bright objects such as sun, moon, stars, morning or sunset glow.
+2. pixels of sky with different colours: for example, clouds and bright objects such as sun, moon, stars, morning or sunset glow.
